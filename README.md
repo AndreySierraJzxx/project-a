@@ -114,7 +114,7 @@ docker-compose up --build
 ## 5 Estara dispinible en:
 
 ```bash
-http://localhost:8080
+http://localhost:8000
 ```
 
 ## 6 si el puerto 8080 esta en uso en el archivo docker-compose.yml se puede cambiar
